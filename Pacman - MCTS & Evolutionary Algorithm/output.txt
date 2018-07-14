@@ -1,0 +1,2674 @@
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EEDE90>
+0.04
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEDE90>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EEDF58>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF37D8>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEDF58>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF37D8>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF3C10>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF93F0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9238>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF3D78>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3C10>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF93F0>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3D78>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9238>
+0.06
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9800>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9468>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF3D50>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['North']
+<pacmanAgents.Node instance at 0x02EF3E40>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF3800>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF3DA0>
+0.06
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9760>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF97D8>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3DA0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9800>
+0.07
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3D50>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3E40>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3800>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9468>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF97D8>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9760>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9A58>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9B98>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9828>
+0.08
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF99B8>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9EE0>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9FD0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF99E0>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9BE8>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9878>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9C88>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF3DC8>
+0.03
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3DC8>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EEAD00>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEB260>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEAD00>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB260>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EEB2B0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEB210>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F02288>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F021E8>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB2B0>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB210>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F02288>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F021E8>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEB418>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF3DF0>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F02300>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EEB238>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['North']
+<pacmanAgents.Node instance at 0x02EFBFA8>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EFBEE0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F02328>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F02350>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB418>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3DF0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F02328>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB238>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EFBFA8>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EFBEE0>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F02300>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F02350>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F02990>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEB468>
+0.07
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F02AA8>
+0.06
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EEB440>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['South']
+<pacmanAgents.Node instance at 0x02F02BE8>
+0.07
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F026C0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F02A08>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F02A80>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F02788>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F02030>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEB5D0>
+0.0
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB5D0>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F02DF0>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEAF58>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F02DF0>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEAF58>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['North']
+<pacmanAgents.Node instance at 0x02F029B8>
+0.06
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9D00>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9468>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9C88>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F029B8>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9C88>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9468>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9D00>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EFB620>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EFB300>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF99B8>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF9F58>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['South']
+<pacmanAgents.Node instance at 0x02F02440>
+0.09
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEB350>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9E40>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EFB4B8>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F02440>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EFB300>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9E40>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF9F58>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EFB620>
+0.06
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB350>
+0.07
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF99B8>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EFB4B8>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West', 'North', 'South']
+<pacmanAgents.Node instance at 0x02EF9E90>
+0.07
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF93F0>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9BC0>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF9760>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EED918>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF3620>
+0.0
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF35D0>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF3CB0>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['North']
+<pacmanAgents.Node instance at 0x02EF9E18>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EF3800>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EFB918>
+0.01
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EFB918>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EEDF58>
+0.05
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEAF30>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEDF58>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEAF30>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EEBAA8>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02EF3300>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F04BE8>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F04B20>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEBAA8>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EF3300>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F04BE8>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02F04B20>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['North']
+<pacmanAgents.Node instance at 0x02EEB6E8>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02EED3C8>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F04E90>
+0.02
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F04E40>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['East']
+<pacmanAgents.Node instance at 0x02F02E68>
+0.03
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F04AD0>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F04FD0>
+0.04
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand ['West']
+<pacmanAgents.Node instance at 0x02F04FA8>
+0.01
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EEB6E8>
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 2
+In Expand []
+<pacmanAgents.Node instance at 0x02EED3C8>
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
+In 1
+In 3 ---- 2
+In Select []
+In 4
+In 4
